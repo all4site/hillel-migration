@@ -1,13 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="e118715e-3211-43f7-a5d2-17825c638e4f" name="Default Changelist" comment="" />
+    <list default="true" id="e118715e-3211-43f7-a5d2-17825c638e4f" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_08_17_122325_roles_migration.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_08_17_122325_roles_migration.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/database/migrations/2020_08_17_122341_products_migration.php" beforeDir="false" afterPath="$PROJECT_DIR$/database/migrations/2020_08_17_122341_products_migration.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ComposerSettings" synchronizationState="SYNCHRONIZE">
+  <component name="ComposerSettings" doNotAsk="true" synchronizationState="SYNCHRONIZE">
     <pharConfigPath>$PROJECT_DIR$/composer.json</pharConfigPath>
     <execution />
   </component>
@@ -17,6 +21,9 @@
         <option value="PHP Blade template" />
       </list>
     </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="PhpWorkspaceProjectConfiguration">
     <include_path>
@@ -125,6 +132,7 @@
     </include_path>
   </component>
   <component name="ProjectId" id="1gBkS0JUZIu6ZyYeZwQfV7vjpj8" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="compactDirectories" value="true" />
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -140,11 +148,11 @@
     <property name="settings.editor.selected.configurable" value="terminal" />
   </component>
   <component name="RecentsManager">
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="C:\Projects\migration\resources\views" />
-    </key>
     <key name="MoveFile.RECENT_KEYS">
       <recent name="C:\Projects\migration\app\Models" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Projects\migration\resources\views" />
     </key>
   </component>
   <component name="RunManager" selected="npm.watch">
@@ -177,6 +185,7 @@
       <option name="presentableId" value="Default" />
       <updated>1597595370420</updated>
       <workItem from="1597595372593" duration="11747000" />
+      <workItem from="1597674669825" duration="1557000" />
     </task>
     <servers />
   </component>
